@@ -6,4 +6,4 @@ function add()
      console.log(sum);
 
 }
-add();
+add(11,1,2);
