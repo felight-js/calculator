@@ -35,3 +35,12 @@ sub=(n1-n2-n3);
 console.log(sub);
 }
 add();
+
+
+function add()
+{
+var n1=2,n2=3;
+mul=(n1*n2);
+console.log();
+}
+add();
